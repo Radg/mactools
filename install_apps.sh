@@ -10,6 +10,8 @@ brew install speedtest-cli
 brew install zsh
 brew install vim
 brew install rsync
+brew install youtube-dl
+brew install nmap
 brew cask install iina
 brew cask install transmission
 brew cask install sublime-text
