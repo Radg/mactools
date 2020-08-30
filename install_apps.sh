@@ -8,6 +8,7 @@ brew install mc
 brew install golang
 brew install speedtest-cli
 brew install zsh
+brew install vim
 brew install rsync
 brew cask install iina
 brew cask install transmission
