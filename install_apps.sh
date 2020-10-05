@@ -13,6 +13,7 @@ brew install rsync
 brew install youtube-dl
 brew install nmap
 brew install tree
+brew install jq
 brew cask install iina
 brew cask install transmission
 brew cask install sublime-text
