@@ -24,4 +24,5 @@ brew cask install iterm2
 brew cask install dozer
 brew cask install notion
 brew cask install mounty
+brew cask install mysqlworkbench
 
