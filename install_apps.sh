@@ -27,3 +27,6 @@ brew cask install notion
 brew cask install mounty
 brew cask install mysqlworkbench
 
+# Install zsh plugins
+git clone https://github.com/bobthecow/git-flow-completion ~/.oh-my-zsh/custom/plugins/git-flow-completion
+
