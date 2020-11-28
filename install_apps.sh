@@ -15,6 +15,7 @@ brew install nmap
 brew install tree
 brew install jq
 brew install git-flow
+brew install watch
 brew cask install iina
 brew cask install transmission
 brew cask install sublime-text
