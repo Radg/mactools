@@ -16,17 +16,18 @@ brew install tree
 brew install jq
 brew install git-flow
 brew install watch
-brew cask install iina
-brew cask install transmission
-brew cask install sublime-text
-brew cask install maccy
-brew cask install itsycal
-brew cask install firefox
-brew cask install iterm2
-brew cask install dozer
-brew cask install notion
-brew cask install mounty
-brew cask install mysqlworkbench
+brew install --cask iina
+brew install --cask transmission
+brew install --cask sublime-text
+brew install --cask maccy
+brew install --cask itsycal
+brew install --cask firefox
+brew install --cask google-chrome
+brew install --cask iterm2
+brew install --cask dozer
+brew install --cask notion
+brew install --cask mounty
+brew install --cask mysqlworkbench
 
 # Install zsh plugins
 git clone https://github.com/bobthecow/git-flow-completion ~/.oh-my-zsh/custom/plugins/git-flow-completion
