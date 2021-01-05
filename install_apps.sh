@@ -14,6 +14,7 @@ brew install youtube-dl
 brew install nmap
 brew install tree
 brew install jq
+brew install grc
 brew install git-flow
 brew install watch
 brew install --cask iina
