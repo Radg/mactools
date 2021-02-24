@@ -17,6 +17,7 @@ brew install jq
 brew install grc
 brew install git-flow
 brew install watch
+brew install screen
 brew install --cask iina
 brew install --cask transmission
 brew install --cask sublime-text
