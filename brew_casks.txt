@@ -1,0 +1,16 @@
+iina
+powershell
+drawio
+monitorcontrol
+podman-desktop
+transmission
+sublime-text
+maccy
+itsycal
+firefox
+google-chrome
+iterm2
+dozer
+notion
+mounty
+mysqlworkbench
